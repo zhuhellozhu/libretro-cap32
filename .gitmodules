@@ -1,0 +1,4 @@
+[submodule "cmocka"]
+	path = cmocka
+	url = https://github.com/zhuhellozhu/cmocka.git
+	branch = det
